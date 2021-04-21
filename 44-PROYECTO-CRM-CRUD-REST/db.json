@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Aaron Chacon",
+      "email": "mail@aaronch.com",
+      "telefono": "920880481",
+      "empresa": "aaronch.com",
+      "id": 2
+    },
+    {
+      "nombre": "Mariam Levy",
+      "email": "mariamlevy@gmail.com",
+      "telefono": "9203833932",
+      "empresa": "mariamlevy.com",
+      "id": 3
+    }
+  ]
+}

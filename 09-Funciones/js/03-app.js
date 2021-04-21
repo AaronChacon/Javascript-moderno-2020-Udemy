@@ -1,0 +1,4 @@
+
+//Funciones Nativas
+
+//ejemplo alert()
